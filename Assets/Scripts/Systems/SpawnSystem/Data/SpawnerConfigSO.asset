@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3fd6fae80186441a41bbd7b3dac6ee, type: 3}
+  m_Name: SpawnerConfigSO
+  m_EditorClassIdentifier: 
+  _spawnerElements:
+  - _prefab: {fileID: 1929985904951253612, guid: d699c885e25aa564abd8583dcd3e12f3, type: 3}
+    _maxCount: 3
+    _spawnChance: 43
+  - _prefab: {fileID: 7605939508366430210, guid: 6c02514685f34e748b9d537347d8247c, type: 3}
+    _maxCount: 3
+    _spawnChance: 20
+  - _prefab: {fileID: 5528710406244652367, guid: f5cf8bd18bf9c1e4eaff31360383e536, type: 3}
+    _maxCount: 3
+    _spawnChance: 30
+  - _prefab: {fileID: 5677697744823122957, guid: cb88afaecdd712047a3f86f1e6323653, type: 3}
+    _maxCount: 3
+    _spawnChance: 7
+  _minSpawnYViewport: 0.6
+  _maxSpawnYViewport: 1
+  _despawnDistanceBelowScreen: 5
+  _horizontalScreenOffset: 2

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f8131ac190c5fd4e8727680c8442580, type: 3}
+  m_Name: DefaultExplode
+  m_EditorClassIdentifier: 
+  _type: 0
+  _audioClip: {fileID: 8300000, guid: 399a75bb1a5d8bb4085ee1275ea1209a, type: 3}
+  _particle: {fileID: 9157105887693468085, guid: c4f829cb7dd4b864caf8832ec5b1ee55, type: 3}
